@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+🔬 Microscopy Control Room
+</title>
+
+<link rel="stylesheet"
+href="style.css">
+
+</head>
+
+<body>
+
+<div id="alertContainer"></div>
+
+<div id="problemPanel"></div>
+
+<div class="header">
+
+<h1>
+🔬 Microscopy Control Room Dashboard
+</h1>
+
+<p>
+Department of Pharmacognosy Laboratory
+</p>
+
+</div>
+
+<div class="summary">
+
+<div class="summary-card normal">
+
+<div id="normalCount">0</div>
+
+<span>Normal</span>
+
+</div>
+
+<div class="summary-card warning">
+
+<div id="warningCount">0</div>
+
+<span>Warning</span>
+
+</div>
+
+<div class="summary-card danger">
+
+<div id="dangerCount">0</div>
+
+<span>Out of Service</span>
+
+</div>
+
+<div class="summary-card norecord">
+
+<div id="norecordCount">0</div>
+
+<span>No Record</span>
+
+</div>
+
+</div>
+
+<div class="search-container">
+
+<input
+type="text"
+id="searchBox"
+placeholder="🔍 ค้นหาหมายเลขกล้อง">
+
+</div>
+
+<div id="dashboard"></div>
+
+<script>
+
+fetch('data.json')
+
+.then(response => response.json())
+
+.then(data => {
+
+let normal = 0;
+let warning = 0;
+let danger = 0;
+let norecord = 0;
+
+let dangerList = [];
+let warningList = [];
+
+const dashboard =
+document.getElementById("dashboard");
+
+const alertContainer =
+document.getElementById("alertContainer");
+
+const problemPanel =
+document.getElementById("problemPanel");
+
+dashboard.innerHTML = "";
+alertContainer.innerHTML = "";
+problemPanel.innerHTML = "";
+
+data.forEach(item => {
+
+const microscope =
+item.microscope || "-";
+
+const user =
+item.user || "-";
+
+let date = "-";
+
+if(item.date && item.date !== "-"){
+
+date =
+new Date(item.date)
+.toLocaleString(
+"th-TH",
+{
+year:"numeric",
+month:"short",
+day:"numeric",
+hour:"2-digit",
+minute:"2-digit"
+}
+);
+
+}
+
+const status =
+(item.status || "").toString();
+
+let cardClass = "norecord";
+
+if(status.includes("Normal")){
+
+cardClass = "normal";
+normal++;
+
+}
+else if(status.includes("Warning")){
+
+cardClass = "warning";
+warning++;
+
+warningList.push(microscope);
+
+}
+else if(status.includes("Out of Service")){
+
+cardClass = "danger";
+danger++;
+
+dangerList.push(microscope);
+
+}
+else{
+
+norecord++;
+
+}
+
+dashboard.innerHTML += `
+
+<div class="card ${cardClass}">
+
+<h3>${microscope}</h3>
+
+<div class="status">
+${status}
+</div>
+
+<div class="user">
+👤 ${user}
+</div>
+
+<div class="date">
+📅 ${date}
+</div>
+
+</div>
+
+`;
+
+});
+
+
+if(dangerList.length > 0){
+
+problemPanel.innerHTML += `
+
+<div class="problem-box danger-box">
+
+<h2>🔴 Critical Equipment</h2>
+
+${dangerList.join("<br>")}
+
+</div>
+
+`;
+
+}
+
+if(warningList.length > 0){
+
+problemPanel.innerHTML += `
+
+<div class="problem-box warning-box">
+
+<h2>🟡 Warning Equipment</h2>
+
+${warningList.join("<br>")}
+
+</div>
+
+`;
+
+}
+
+
+if(danger > 0){
+
+alertContainer.innerHTML += `
+
+<div class="alert-danger">
+
+🔴 ALERT :
+พบกล้องใช้งานไม่ได้
+${danger} เครื่อง
+
+</div>
+
+`;
+
+}
+
+if(warning > 0){
+
+alertContainer.innerHTML += `
+
+<div class="alert-warning">
+
+🟡 WARNING :
+พบกล้องมีปัญหาเล็กน้อย
+${warning} เครื่อง
+
+</div>
+
+`;
+
+}
+
+if(danger === 0 && warning === 0){
+
+alertContainer.innerHTML += `
+
+<div class="alert-success">
+
+🟢 ระบบปกติ
+กล้องทั้งหมดพร้อมใช้งาน
+
+</div>
+
+`;
+
+}
+
+
+document.getElementById(
+"normalCount"
+).innerText = normal;
+
+document.getElementById(
+"warningCount"
+).innerText = warning;
+
+document.getElementById(
+"dangerCount"
+).innerText = danger;
+
+document.getElementById(
+"norecordCount"
+).innerText = norecord;
+
+
+document
+.getElementById("searchBox")
+
+.addEventListener("keyup",function(){
+
+const value =
+this.value.toLowerCase();
+
+const cards =
+document.querySelectorAll(".card");
+
+cards.forEach(card=>{
+
+if(
+card.innerText
+.toLowerCase()
+.includes(value)
+){
+card.style.display="block";
+}
+else{
+card.style.display="none";
+}
+
+});
+
+});
+
+})
+
+.catch(error => {
+
+document.body.innerHTML =
+
+"<h1>ERROR</h1><pre>" +
+error +
+"</pre>";
+
+console.error(error);
+
+});
+
+</script>
+
+</body>
+</html>
