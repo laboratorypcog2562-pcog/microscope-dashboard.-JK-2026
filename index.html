@@ -28,26 +28,30 @@
 
 <div class="filter-container">
 
-<button onclick="filterStatus('all')">
+<button class="filter-btn"
+onclick="filterStatus('all')">
 ทั้งหมด
 </button>
 
-<button onclick="filterStatus('normal')">
+<button class="filter-btn"
+onclick="filterStatus('normal')">
 ปกติ
 </button>
 
-<button onclick="filterStatus('warning')">
+<button class="filter-btn"
+onclick="filterStatus('warning')">
 มีปัญหา
 </button>
 
-<button onclick="filterStatus('danger')">
+<button class="filter-btn"
+onclick="filterStatus('danger')">
 ใช้งานไม่ได้
 </button>
 
-<button onclick="filterStatus('norecord')">
+<button class="filter-btn"
+onclick="filterStatus('norecord')">
 ไม่มีข้อมูล
 </button>
-
 </div>
 
 <div class="summary">
@@ -303,11 +307,27 @@ loadDashboard(); // refresh + apply filter
    AUTO REFRESH (REAL TIME)
 ========================= */
 
+function filterStatus(status){
+
+currentFilter = status;
+
+loadDashboard();
+
+}
+
 // โหลดครั้งแรก
 loadDashboard();
 
 // refresh ทุก 5 วินาที
 setInterval(loadDashboard, 5000);
+
+function filterStatus(status){
+
+currentFilter = status;
+
+loadDashboard();
+
+}
 
 </script>
 
