@@ -19,11 +19,35 @@
 
 <div class="header">
 <h1>🔬 Microscopy Control Room Dashboard</h1>
-<p>Department of Pharmacognosy Laboratory</p>
+<p>Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical Sciences, Prince of Songkla University (PSU)</p>
 </div>
 
 <div class="search-box">
 <input type="text" id="searchBox" placeholder="🔍 ค้นหากล้อง, ผู้ใช้, สถานะ">
+</div>
+
+<div class="filter-container">
+
+<button onclick="filterStatus('all')">
+ทั้งหมด
+</button>
+
+<button onclick="filterStatus('normal')">
+ปกติ
+</button>
+
+<button onclick="filterStatus('warning')">
+มีปัญหา
+</button>
+
+<button onclick="filterStatus('danger')">
+ใช้งานไม่ได้
+</button>
+
+<button onclick="filterStatus('norecord')">
+ไม่มีข้อมูล
+</button>
+
 </div>
 
 <div class="summary">
@@ -55,6 +79,7 @@
 <script>
 
 let searchKeyword = "";
+let currentFilter = "all";
 
 /* =========================
    MAIN REAL-TIME FUNCTION
@@ -233,13 +258,33 @@ document.getElementById("norecordCount").innerText = norecord;
 const cards = document.querySelectorAll(".card");
 
 cards.forEach(card => {
-const text = card.innerText.toLowerCase();
 
-if (text.includes(searchKeyword.toLowerCase())) {
+const text =
+card.innerText.toLowerCase();
+
+const matchSearch =
+text.includes(
+searchKeyword.toLowerCase()
+);
+
+const matchFilter =
+currentFilter === "all"
+||
+card.classList.contains(
+currentFilter
+);
+
+if(matchSearch && matchFilter){
+
 card.style.display = "block";
-} else {
-card.style.display = "none";
+
 }
+else{
+
+card.style.display = "none";
+
+}
+
 });
 
 }
