@@ -79,13 +79,13 @@
   {
     "microscope": "No.8 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
-    "image": "-"
+    "studentId": 665555,
+    "user": "ส้ม",
+    "course": "570-331",
+    "date": "2026-06-24T10:21:08.271Z",
+    "status": "ใช้งานไม่ได้ (Out of Service)",
+    "problem": "พัง",
+    "image": "https://drive.google.com/open?id=1f-ovsMSM2gQoHazH2RyiUWW755GMfouh"
   },
   {
     "microscope": "No.9 Olympus",
