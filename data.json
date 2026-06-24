@@ -1,434 +1,794 @@
 [
   {
     "microscope": "No.1 Olympus",
-    "user": "????????",
-    "date": "2026-06-16T04:21:59.896Z",
-    "status": "???? (Normal)"
+    "location": "-",
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.2 Olympus",
-    "user": "test",
-    "date": "2026-06-16T07:29:33.052Z",
-    "status": "???????????? (Out of Service)"
+    "location": "-",
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.3 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.4 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.5 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.6 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.7 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.8 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.9 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.10 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.11 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.12 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.13 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.14 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.15 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.16 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.17 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.18 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.19 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.20 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.21 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.22 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.23 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.24 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.25 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.26 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.27 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.28 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.29 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.30 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.31 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.32 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.33 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.34 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.35 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.36 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.37 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.38 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.39 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.40 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.41 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.42 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.43 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.44 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.45 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.46 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.47 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.48 Olympus",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.49 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.50 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.51 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.52 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.53 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.54 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.55 Nikon",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.56 Nikon ?????",
+    "microscope": "No.56 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.57 Nikon ?????",
+    "microscope": "No.57 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.58 Nikon ?????",
+    "microscope": "No.58 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.59 Nikon ?????",
+    "microscope": "No.59 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.60 Nikon ?????",
+    "microscope": "No.60 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.61 Nikon ?????",
+    "microscope": "No.61 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.62 Nikon ?????",
+    "microscope": "No.62 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.63 Nikon ?????",
+    "microscope": "No.63 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.64 Nikon ?????",
+    "microscope": "No.64 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.65 Nikon ?????",
+    "microscope": "No.65 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.66 Nikon ?????",
+    "microscope": "No.66 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.67 Nikon ?????",
+    "microscope": "No.67 Nikon สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.68 Zeiss? ?????",
+    "microscope": "No.68 Zeiss  สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.69 Zeiss? ?????",
+    "microscope": "No.69 Zeiss  สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.70 Zeiss? ?????",
+    "microscope": "No.70 Zeiss  สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.71 Zeiss? ?????",
+    "microscope": "No.71 Zeiss  สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   },
   {
-    "microscope": "No.72 Zeiss? ?????",
+    "microscope": "No.72 Zeiss  สำรอง",
+    "location": "-",
+    "studentId": "-",
     "user": "-",
+    "course": "-",
     "date": "-",
-    "status": "No Record"
+    "status": "No Record",
+    "problem": "-",
+    "image": "-"
   }
 ]
