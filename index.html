@@ -228,25 +228,51 @@ dashboard.innerHTML += `
 
 <div class="card ${cardClass}">
 
-<h3>${microscope}</h3>
+<h3>🔬 ${microscope}</h3>
 
 <div class="status">
 ${status}
 </div>
 
-<div class="user">
-👤 ${user}
+<div class="detail">
+<b>Student ID:</b>
+${item.studentId || "-"}
 </div>
 
-<div class="date">
-📅 ${date}
+<div class="detail">
+<b>Name:</b>
+${item.user || "-"}
 </div>
+
+<div class="detail">
+<b>Course:</b>
+${item.course || "-"}
+</div>
+
+<div class="detail">
+<b>Last Used:</b>
+${date}
+</div>
+
+<div class="detail">
+<b>Problem:</b>
+${item.problem || "-"}
+</div>
+
+${
+item.image &&
+item.image !== "-"
+?
+`<a href="${item.image}" target="_blank">
+📷 View Image
+</a>`
+:
+""
+}
 
 </div>
 
 `;
-
-});
 
 
 if(dangerList.length > 0){
