@@ -739,24 +739,24 @@
   {
     "microscope": "No.68 Zeiss  สำรอง",
     "location": "-",
-    "studentId": 6678849,
-    "user": "อลิซาเบธ โอลเซ่น",
-    "course": "570-231",
-    "date": "2026-06-26T11:45:25.242Z",
-    "status": "ปกติ (Normal)",
+    "studentId": "-",
+    "user": "-",
+    "course": "-",
+    "date": "-",
+    "status": "No Record",
     "problem": "-",
     "image": "-"
   },
   {
     "microscope": "No.69 Zeiss  สำรอง",
     "location": "-",
-    "studentId": "ุุ6640310930",
-    "user": "ยัยน้อง",
-    "course": "570-331",
-    "date": "2026-06-26T09:30:52.839Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "ปุ่มปรับภาพหยาบค้างหมุนได้ไม่สุด",
-    "image": "https://drive.google.com/open?id=1PkFi4T26MqWnVbS9gPOREOE7nWmRBc5P"
+    "studentId": 6678849,
+    "user": "อลิซาเบธ โอลเซ่น",
+    "course": "570-231",
+    "date": "2026-06-26T11:46:56.275Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.70 Zeiss  สำรอง",
