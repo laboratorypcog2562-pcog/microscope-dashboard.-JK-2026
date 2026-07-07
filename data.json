@@ -123,11 +123,11 @@
   {
     "microscope": "No.12 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710710046,
+    "user": "ช้อนทอง ทองเกิด",
+    "course": "570-331",
+    "date": "2026-07-07T04:38:35.151Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
