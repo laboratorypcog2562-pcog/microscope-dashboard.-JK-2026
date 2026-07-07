@@ -2,11 +2,11 @@
   {
     "microscope": "No.1 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710710069,
+    "user": "นิอาณีตา แนซี",
+    "course": "570-331",
+    "date": "2026-07-07T09:17:01.867Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
@@ -156,12 +156,12 @@
   {
     "microscope": "No.15 Olympus",
     "location": "-",
-    "studentId": 6710710049,
-    "user": "ญาณิศา เทพเสน",
+    "studentId": 6710710086,
+    "user": "วฤทัย ชัยชนะ",
     "course": "570-331",
-    "date": "2026-07-07T04:22:28.981Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "date": "2026-07-07T09:17:00.193Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "เลนส์ใกล้วัตถุ40xไม่ชัด",
     "image": "-"
   },
   {
