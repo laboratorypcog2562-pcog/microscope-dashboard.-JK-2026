@@ -398,12 +398,12 @@
   {
     "microscope": "No.37 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
+    "studentId": 331,
+    "user": "เภสัชเวท",
+    "course": "570-331",
+    "date": "2026-07-07T04:36:13.673Z",
+    "status": "ใช้งานไม่ได้ (Out of Service)",
+    "problem": "ปรับ stage ไม่ได้",
     "image": "-"
   },
   {
