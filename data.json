@@ -343,11 +343,11 @@
   {
     "microscope": "No.32 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710710068,
+    "user": "นราวิชญ์ ลิ้ม",
+    "course": "570-331",
+    "date": "2026-07-07T04:20:01.687Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
