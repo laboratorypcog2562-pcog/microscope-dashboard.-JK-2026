@@ -365,11 +365,11 @@
   {
     "microscope": "No.34 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710712022,
+    "user": "ชุติกาญจน์ อักษรนำ",
+    "course": "570-331",
+    "date": "2026-07-07T04:23:40.756Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
