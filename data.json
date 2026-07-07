@@ -46,11 +46,11 @@
   {
     "microscope": "No.5 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710710038,
+    "user": "กมลรส เนตรสุภาพ",
+    "course": "570-331",
+    "date": "2026-07-07T04:27:07.229Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
     "problem": "-",
     "image": "-"
   },
