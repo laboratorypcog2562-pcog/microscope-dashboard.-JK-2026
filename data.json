@@ -475,11 +475,11 @@
   {
     "microscope": "No.44 Olympus",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710712035,
+    "user": "ปิ่นจุฑา ศรีสวัสดิ์",
+    "course": "570-331",
+    "date": "2026-07-07T04:31:23.390Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
