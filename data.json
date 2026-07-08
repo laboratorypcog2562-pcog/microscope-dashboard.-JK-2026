@@ -266,12 +266,12 @@
   {
     "microscope": "No.25 Olympus",
     "location": "-",
-    "studentId": 6710710098,
-    "user": "อภิศรักดิ์ มากมณี",
+    "studentId": 6710710026,
+    "user": "ปัณฑารีย์ ลี่ดำรงวัฒนากุล",
     "course": "570-331",
-    "date": "2026-07-07T09:44:30.835Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "เลนส์40X ไม่สว่าง",
+    "date": "2026-07-08T04:48:05.097Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
     "image": "-"
   },
   {
@@ -530,23 +530,23 @@
   {
     "microscope": "No.49 Nikon",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 6710712017,
+    "user": "สุพิชชา ธนูอินทร์",
+    "course": "570-331",
+    "date": "2026-07-08T04:48:05.877Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
   {
     "microscope": "No.50 Nikon",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
+    "studentId": 6710712018,
+    "user": "กัญญ์วรา แมนยี",
+    "course": "570-331",
+    "date": "2026-07-08T04:48:10.995Z",
+    "status": "ปกติ (Normal)",
+    "problem": "ปุ่มปรับภาพหยาบมีความติดขัด",
     "image": "-"
   },
   {
