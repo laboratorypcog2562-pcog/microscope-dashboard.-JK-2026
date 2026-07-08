@@ -255,13 +255,13 @@
   {
     "microscope": "No.24 Olympus",
     "location": "-",
-    "studentId": 6710710097,
-    "user": "อภิชญา ลูกอินทร์",
+    "studentId": 6710710025,
+    "user": "ปภาวี ศุภผล",
     "course": "570-331",
-    "date": "2026-07-07T09:30:36.214Z",
+    "date": "2026-07-08T04:24:22.002Z",
     "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "ที่กล้องระบุว่ากล้องกำลังขยาย40Xมัว",
-    "image": "https://drive.google.com/open?id=1otU-5Hi8bZQ_yM6qsMaCeuJuhhMiAjk6"
+    "problem": "กล้องเลนส์40 มัวมาก ๆ ปรับโฟกัสแล้วไม่ค่อยชัด",
+    "image": "https://drive.google.com/open?id=1f_BQQ5-acVQ0-IAb9922w6hJoOxGkwFD"
   },
   {
     "microscope": "No.25 Olympus",
