@@ -156,12 +156,12 @@
   {
     "microscope": "No.15 Olympus",
     "location": "-",
-    "studentId": 6710710086,
-    "user": "วฤทัย ชัยชนะ",
+    "studentId": 6710710015,
+    "user": "ณัฏฐ์ปรียา เทพฉิม",
     "course": "570-331",
-    "date": "2026-07-07T09:17:00.193Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "เลนส์ใกล้วัตถุ40xไม่ชัด",
+    "date": "2026-07-08T04:59:24.000Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
     "image": "-"
   },
   {
