@@ -563,12 +563,12 @@
   {
     "microscope": "No.52 Nikon",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
-    "problem": "-",
+    "studentId": 6710712020,
+    "user": "กุลรภัส ธีระกุลพิศุทธิ์",
+    "course": "570-331",
+    "date": "2026-07-08T04:40:36.161Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "เลนส์กำลังขยาย 40x เบลอ",
     "image": "-"
   },
   {
