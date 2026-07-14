@@ -255,13 +255,13 @@
   {
     "microscope": "No.24 Olympus",
     "location": "-",
-    "studentId": 6710710025,
-    "user": "ปภาวี ศุภผล",
+    "studentId": 6710710059,
+    "user": "ดาราวดี ด้วงทอง",
     "course": "570-331",
-    "date": "2026-07-08T04:24:22.002Z",
+    "date": "2026-07-14T03:58:10.568Z",
     "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "กล้องเลนส์40 มัวมาก ๆ ปรับโฟกัสแล้วไม่ค่อยชัด",
-    "image": "https://drive.google.com/open?id=1f_BQQ5-acVQ0-IAb9922w6hJoOxGkwFD"
+    "problem": "เลนส์ 40x ใช้ไม่ได้",
+    "image": "-"
   },
   {
     "microscope": "No.25 Olympus",
@@ -387,10 +387,10 @@
   {
     "microscope": "No.36 Olympus",
     "location": "-",
-    "studentId": 6710712003,
-    "user": "ณัฏฐณิชา เกาะเกตุ",
+    "studentId": 6710712024,
+    "user": "ณฐมน ทำพันธ์",
     "course": "570-331",
-    "date": "2026-07-08T04:37:35.092Z",
+    "date": "2026-07-14T03:58:13.051Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
