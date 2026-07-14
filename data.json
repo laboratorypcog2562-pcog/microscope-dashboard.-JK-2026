@@ -475,10 +475,10 @@
   {
     "microscope": "No.44 Olympus",
     "location": "-",
-    "studentId": 6710712012,
-    "user": "พรนภัส เตี้ยงตุ้น",
-    "course": "570-331",
-    "date": "2026-07-08T04:44:00.263Z",
+    "studentId": 6710712035,
+    "user": "ปิ่นจุฑา ศรีสวัสดิ์",
+    "course": "570-231",
+    "date": "2026-07-14T04:15:30.976Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
@@ -596,11 +596,11 @@
   {
     "microscope": "No.55 Nikon",
     "location": "-",
-    "studentId": 6710712004,
-    "user": "ณัฐกฤตา ทองผึ้ง",
+    "studentId": 6710712026,
+    "user": "ทานตะวัน บุญคง",
     "course": "570-331",
-    "date": "2026-07-08T04:15:25.002Z",
-    "status": "ปกติ (Normal)",
+    "date": "2026-07-14T04:15:33.119Z",
+    "status": "ปกติ (Normal), มีปัญหาเล็กน้อย (Warning)",
     "problem": "-",
     "image": "-"
   },
