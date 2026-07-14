@@ -90,12 +90,12 @@
   {
     "microscope": "No.9 Olympus",
     "location": "-",
-    "studentId": 6710710009,
-    "user": "นายจิรภัทร ทัศนกมล",
+    "studentId": 6710710043,
+    "user": "ชญานิน ชูถิ่น",
     "course": "570-331",
-    "date": "2026-07-08T04:21:41.922Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "เลนส์ 40X ใช้ไม่ได้",
+    "date": "2026-07-14T04:03:37.576Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
     "image": "-"
   },
   {
