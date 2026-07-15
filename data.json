@@ -46,13 +46,13 @@
   {
     "microscope": "No.5 Olympus",
     "location": "-",
-    "studentId": 6710710073,
-    "user": "ปัณณวัฒน์ รุธิรโก",
+    "studentId": 6710710005,
+    "user": "กันต์ ตรีธารมธุรส",
     "course": "570-331",
-    "date": "2026-07-14T09:26:37.003Z",
+    "date": "2026-07-15T04:54:20.173Z",
     "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "เลน x40 ใช้งานได้ไม่เต็มประสิทธิภาพ ภาพที่เห็นไม่ชัด ดูยาก",
-    "image": "-"
+    "problem": "กล้อง40x ไม่ค่อยชัดและแสงน้อย",
+    "image": "https://drive.google.com/open?id=12D0-XCwjOTAHspskOqB20U2AXfyweQ1q"
   },
   {
     "microscope": "No.6 Olympus",
