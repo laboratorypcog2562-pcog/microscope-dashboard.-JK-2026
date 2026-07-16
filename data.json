@@ -310,10 +310,10 @@
   {
     "microscope": "No.29 Olympus",
     "location": "-",
-    "studentId": 6710710030,
-    "user": "พิชชาอร มุสิกโร",
-    "course": "570-331",
-    "date": "2026-07-15T04:29:35.225Z",
+    "studentId": 6810710032,
+    "user": "พิชญุตม์ พลเจริญ",
+    "course": "570-231",
+    "date": "2026-07-16T04:57:23.116Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
@@ -563,12 +563,12 @@
   {
     "microscope": "No.52 Nikon",
     "location": "-",
-    "studentId": 6710712020,
-    "user": "กุลรภัส ธีระกุลพิศุทธิ์",
-    "course": "570-331",
-    "date": "2026-07-15T04:21:57.624Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "เลนส์ 40x เบลอเล็กน้อย ",
+    "studentId": 6810712020,
+    "user": "นางสาวอารีฟา หะยีวาลง",
+    "course": "570-231",
+    "date": "2026-07-16T04:57:23.898Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
     "image": "-"
   },
   {
