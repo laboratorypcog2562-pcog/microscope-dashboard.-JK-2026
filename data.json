@@ -46,13 +46,13 @@
   {
     "microscope": "No.5 Olympus",
     "location": "-",
-    "studentId": 6710710005,
-    "user": "กันต์ ตรีธารมธุรส",
-    "course": "570-331",
-    "date": "2026-07-15T04:54:20.173Z",
-    "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "กล้อง40x ไม่ค่อยชัดและแสงน้อย",
-    "image": "https://drive.google.com/open?id=12D0-XCwjOTAHspskOqB20U2AXfyweQ1q"
+    "studentId": 6810710006,
+    "user": "ณัฐนิชา อินทมะโน",
+    "course": "570-231",
+    "date": "2026-07-16T05:04:06.710Z",
+    "status": "ปกติ (Normal)",
+    "problem": "-",
+    "image": "-"
   },
   {
     "microscope": "No.6 Olympus",
