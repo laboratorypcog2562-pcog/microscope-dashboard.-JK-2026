@@ -178,10 +178,10 @@
   {
     "microscope": "No.17 Olympus",
     "location": "-",
-    "studentId": 5810710056,
-    "user": "ณัฐกิตติ์ ภัทรศรีสโรจน์",
+    "studentId": 6810710101,
+    "user": "วรัญญา พะลังเดช",
     "course": "570-231",
-    "date": "2026-07-16T10:04:05.596Z",
+    "date": "2026-07-17T05:01:24.274Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
@@ -244,11 +244,11 @@
   {
     "microscope": "No.23 Olympus",
     "location": "-",
-    "studentId": 6810710062,
-    "user": "เดวิดา อักษรเพียร",
+    "studentId": 6810710108,
+    "user": "ศิรินภา พิริยะ",
     "course": "570-231",
-    "date": "2026-07-16T10:00:20.237Z",
-    "status": "ปกติ (Normal)",
+    "date": "2026-07-17T05:01:22.909Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
     "problem": "-",
     "image": "-"
   },
