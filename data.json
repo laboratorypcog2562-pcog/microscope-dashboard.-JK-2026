@@ -112,10 +112,10 @@
   {
     "microscope": "No.11 Olympus",
     "location": "-",
-    "studentId": 6810710089,
-    "user": "ภัทรนิษฐ์ พูลพิพัฒน์",
-    "course": "570-231",
-    "date": "2026-07-17T04:58:00.874Z",
+    "studentId": 6710710045,
+    "user": "ชลลดา บุญถัด",
+    "course": "570-331",
+    "date": "2026-07-21T04:23:07.187Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
@@ -156,12 +156,12 @@
   {
     "microscope": "No.15 Olympus",
     "location": "-",
-    "studentId": 6810710098,
-    "user": "ลักษิกา กังพานิช",
-    "course": "570-231",
-    "date": "2026-07-17T05:05:17.012Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "studentId": 6710710049,
+    "user": "ญาณิศา เทพเสน",
+    "course": "570-331",
+    "date": "2026-07-21T04:23:06.518Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "กล้อง40x ไม่ค่อยชัด",
     "image": "-"
   },
   {
