@@ -277,12 +277,12 @@
   {
     "microscope": "No.26 Olympus",
     "location": "-",
-    "studentId": 6710710061,
-    "user": "ทรงพล เล่าตง",
+    "studentId": 6710710099,
+    "user": "อรณิชา เพ็ชราการ",
     "course": "570-331",
-    "date": "2026-07-21T04:22:27.517Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "date": "2026-07-21T08:37:34.149Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "40x สภาพใช้งาน 60%",
     "image": "-"
   },
   {
