@@ -783,11 +783,11 @@
   {
     "microscope": "No.72 Zeiss  สำรอง",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": 570231,
+    "user": "จิราภรณ์",
+    "course": "570-231",
+    "date": "2026-07-24T04:10:01.368Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   }
