@@ -761,11 +761,11 @@
   {
     "microscope": "No.70 Zeiss  สำรอง",
     "location": "-",
-    "studentId": "-",
-    "user": "-",
-    "course": "-",
-    "date": "-",
-    "status": "No Record",
+    "studentId": "570-231",
+    "user": "จิราภรณ์",
+    "course": "570-231",
+    "date": "2026-07-24T04:08:00.458Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
