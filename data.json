@@ -266,12 +266,12 @@
   {
     "microscope": "No.25 Olympus",
     "location": "-",
-    "studentId": 6710710060,
-    "user": "น.ส.ตัสนีม นิยมเดชา",
+    "studentId": 6710710098,
+    "user": "อภิศรักดิ์ มากมณี",
     "course": "570-331",
-    "date": "2026-08-25T03:42:07.450Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "date": "2026-08-25T08:42:14.481Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "40x ใช้งานไม่100%",
     "image": "-"
   },
   {
