@@ -354,11 +354,11 @@
   {
     "microscope": "No.33 Olympus",
     "location": "-",
-    "studentId": 6710712021,
-    "user": "ชิตาพัณณ์  ธัญภัคพงศ์สิน",
+    "studentId": 6710712044,
+    "user": "วรยุทธ นาคเลิศ",
     "course": "570-331",
-    "date": "2026-08-25T03:37:51.112Z",
-    "status": "ปกติ (Normal)",
+    "date": "2026-08-25T08:25:18.786Z",
+    "status": "ปกติ (Normal), มีปัญหาเล็กน้อย (Warning), ใช้งานไม่ได้ (Out of Service)",
     "problem": "-",
     "image": "-"
   },
