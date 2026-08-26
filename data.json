@@ -310,10 +310,10 @@
   {
     "microscope": "No.29 Olympus",
     "location": "-",
-    "studentId": 6710710102,
-    "user": "ปัณณวิชญ์ นาศรี",
+    "studentId": 6710710030,
+    "user": "พิชชาอร มุสิกโร",
     "course": "570-331",
-    "date": "2026-08-25T08:25:34.964Z",
+    "date": "2026-08-26T03:54:45.858Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
@@ -354,11 +354,11 @@
   {
     "microscope": "No.33 Olympus",
     "location": "-",
-    "studentId": 6710712044,
-    "user": "วรยุทธ นาคเลิศ",
+    "studentId": 6710710034,
+    "user": "ภาวิตร ตั้งใจ",
     "course": "570-331",
-    "date": "2026-08-25T08:25:18.786Z",
-    "status": "ปกติ (Normal), มีปัญหาเล็กน้อย (Warning), ใช้งานไม่ได้ (Out of Service)",
+    "date": "2026-08-26T03:54:57.405Z",
+    "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
   },
