@@ -46,12 +46,12 @@
   {
     "microscope": "No.5 Olympus",
     "location": "-",
-    "studentId": 6710710005,
-    "user": "กันต์ ตรีธารมธุรส",
+    "studentId": 6710710038,
+    "user": "นางสาวกมลรส เนตรสุภาพ",
     "course": "570-331",
-    "date": "2026-08-26T03:57:52.966Z",
+    "date": "2026-09-01T03:50:34.034Z",
     "status": "มีปัญหาเล็กน้อย (Warning)",
-    "problem": "กล้อง40x ไม่ค่อยชัด แสงน้อย",
+    "problem": "-",
     "image": "-"
   },
   {
@@ -244,10 +244,10 @@
   {
     "microscope": "No.23 Olympus",
     "location": "-",
-    "studentId": 6710710024,
-    "user": "นันท์นภัส ทองเกิด",
+    "studentId": 6710710058,
+    "user": "ดวิษา  จู้ห้อง",
     "course": "570-331",
-    "date": "2026-08-26T03:57:22.931Z",
+    "date": "2026-09-01T03:50:36.132Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
