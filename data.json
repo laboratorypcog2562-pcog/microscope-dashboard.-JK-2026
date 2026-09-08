@@ -266,12 +266,12 @@
   {
     "microscope": "No.25 Olympus",
     "location": "-",
-    "studentId": 6710710060,
-    "user": "ตัสนีม นิยมเดชา",
+    "studentId": 6710710098,
+    "user": "อภิศรักดิ์ มากมณี",
     "course": "570-331",
-    "date": "2026-09-08T04:00:52.031Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "date": "2026-09-08T09:26:10.379Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "ปุ่มปรับภาพหยาบเลื่อนเอง",
     "image": "-"
   },
   {
@@ -365,10 +365,10 @@
   {
     "microscope": "No.34 Olympus",
     "location": "-",
-    "studentId": 6710712022,
-    "user": "ชุติกาญจน์ อักษรนำ",
+    "studentId": 6710712045,
+    "user": "ศรัณยพงศ์ พุ่มนก",
     "course": "570-331",
-    "date": "2026-09-08T03:48:27.196Z",
+    "date": "2026-09-08T09:25:51.184Z",
     "status": "ปกติ (Normal)",
     "problem": "-",
     "image": "-"
