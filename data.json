@@ -178,12 +178,12 @@
   {
     "microscope": "No.17 Olympus",
     "location": "-",
-    "studentId": 6710710090,
-    "user": "สรวิชญ์ เสนา",
+    "studentId": 6710710017,
+    "user": "ตฤณจร สุรการ",
     "course": "570-331",
-    "date": "2026-09-08T08:31:24.534Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
+    "date": "2026-09-09T04:24:24.170Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "Clip มีปัญหา",
     "image": "-"
   },
   {
