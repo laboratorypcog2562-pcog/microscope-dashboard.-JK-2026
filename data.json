@@ -68,13 +68,13 @@
   {
     "microscope": "No.7 Olympus",
     "location": "-",
-    "studentId": 6710710040,
-    "user": "ขนิษฐจรส ยางทอง",
+    "studentId": 6710710007,
+    "user": "นางสาวเกศราภรณ์ เกตุเกลี้ยง",
     "course": "570-331",
-    "date": "2026-09-08T03:49:45.467Z",
-    "status": "ปกติ (Normal)",
-    "problem": "-",
-    "image": "-"
+    "date": "2026-09-09T03:47:50.898Z",
+    "status": "มีปัญหาเล็กน้อย (Warning)",
+    "problem": "กำลังขยาย40X ไม่ชัด พี่นักวิทย์เปลี่ยนให้เป็นกล้องหมายเลข69แล้วค่ะ",
+    "image": "https://drive.google.com/open?id=1xUhVfmL1CH0m6pCJjaX1reyRiAX6HBKQ"
   },
   {
     "microscope": "No.8 Olympus",
